@@ -1,0 +1,19 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "9L78GJM58X.com.buildingengines.temobile",
+        "paths": [ "/test/*", "/test2/*"]
+      },
+      {
+        "appID": "9L78GJM58X.com.buildingengines.servicelink",
+        "paths": [ "/test/*"]
+      },
+      {
+        "appID": "9L78GJM58X.com.buildingengines.BEIApp",
+        "paths": [ "NOT *" ]
+      }
+    ]
+  }
+}
