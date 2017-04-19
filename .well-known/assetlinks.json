@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.buildingengines.servicelink",
-      "sha256_cert_fingerprints": ["A2:0E:9A:0A:37:8D:F8:1C:D6:ED:0B:44:DE:50:73:FC:94:D7:D9:3F"]
+      "sha256_cert_fingerprints": ["E9:DE:1A:72:B7:75:FB:EB:D9:01:3B:BD:9C:05:6F:2E:1C:5D:B9:BB:30:52:A1:11:A2:FA:A4:26:51:83:13:E1"]
     }
   },
   {
@@ -12,7 +12,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.buildingengines.temobile",
-      "sha256_cert_fingerprints": ["DC:06:B4:18:D7:D6:B5:01:F9:C9:6A:8C:9F:B6:F4:29:38:A8:3D:96"]
+      "sha256_cert_fingerprints": ["85:EA:3E:FC:45:FF:4D:D6:01:A1:F1:84:2F:C1:E1:27:5E:86:F2:B6:91:42:7B:79:24:75:5E:75:5C:42:62:0C"]
     }
   }
 ]
